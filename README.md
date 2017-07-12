@@ -1,2 +1,2 @@
 # Helloworld
-hi there! its the strt of training.
+hi there! its the start of training.
